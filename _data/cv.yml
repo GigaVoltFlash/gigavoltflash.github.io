@@ -2,31 +2,27 @@
   type: map
   contents:
     - name: Full Name
-      value: Albert Einstein
-    - name: Date of Birth
-      value: 14th March 1879
+      value: Anshuk Chigullapalli
     - name: Languages
-      value: English, German
+      value: English, Hindi, Telugu
 
 - title: Education
   type: time_table
   contents:
-    - title: PhD
-      institution: University of Zurich, Zurich, Switzerland
-      year: 1905
+    - title: Master of Science
+      institution: Stanford University, California, United States
+      year: 2025
       description:
-        - Description 1.
-        - Description 2.
-        - title: Description 3.
-          contents:
-            - Sub-description 1.
-            - Sub-description 2.
-    - title: Federal teaching diploma
-      institution: Eidgenössische Technische Hochschule, Zurich, Switzerland
-      year: 1900
+        - M.S in Aeronautical and Astronautical Engineering
+        - Concentration in Guidance, Navigation, and Control; Robotics; Autonomy
+        - GPA: 4.0
+    - title: Bachelor of Science
+      institution: University of Illinois at Urbana-Champaign, Illinois, United States
+      year: 2023
       description:
-        - Description 1.
-        - Description 2.
+        - Major in Aerospace Engineering
+        - Minor in Computer Engineering
+        - GPA: 3.97
 
 - title: Experience
   type: time_table
