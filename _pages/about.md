@@ -25,11 +25,11 @@ One of my big reasons for picking aerospace as a major back in 2018 was the icon
 
 In 2020 (at age 19) I decided that a long-term life goal of mine is to play a significant role in landing humans on Mars. 
 
-Other non-aerospace fun (maybe stereotypical) things about me:
+<!-- Other non-aerospace fun (maybe stereotypical) things about me:
 * I grew up in Hyderabad, India and only moved to the US in 2019. Hyderabad is my home.
 * I love Interstellar (watching the movie and listening to the music).
 * I follow Formula 1 closely.
 * I used to play Tabla in high school.
 * My music taste includes Arijit Singh, Taylor Swift, Green Day, AJR, Kishore Kumar, Blackpink... (it's varied).
-* I like bouldering but am only at a V3 level.
+* I like bouldering but am only at a V3 level. -->
   
